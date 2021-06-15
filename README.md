@@ -12,9 +12,7 @@ apt update
 
 apt upgrade
 
-
-git clone 
-
+git clone https:
 
 cd SCANNER
 
