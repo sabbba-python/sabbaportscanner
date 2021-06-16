@@ -14,4 +14,6 @@ chmod +x sabbaportscanner.py
 
 python3 sabbaportscanner.py
 
+you do not have permission to modify this TOOL,sell it, make it yours.
+
 
