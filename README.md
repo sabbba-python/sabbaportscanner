@@ -8,10 +8,9 @@ apt upgrade
 
 git clone https:
 
-cd SCANNER
+cd sabbaportscanner
 
 chmod +x sabbaportscanner.py
-
 
 python3 sabbaportscanner.py
 
