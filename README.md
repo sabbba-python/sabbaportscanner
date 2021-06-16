@@ -2,9 +2,9 @@ this Tool is a TCP portscanner and is used to search and communicate to the atta
 
 installation Linux/distributions
 
-apt update
+sudo apt update or apt update
 
-apt upgrade
+sudo apt upgrade or apt upgrade
 
 git clone https://github.com/sabbba-python/sabbaportscanner.git
 
