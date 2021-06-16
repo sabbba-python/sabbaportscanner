@@ -6,7 +6,7 @@ apt update
 
 apt upgrade
 
-git clone https:
+git clone https://github.com/sabbba-python/sabbaportscanner.git
 
 cd sabbaportscanner
 
